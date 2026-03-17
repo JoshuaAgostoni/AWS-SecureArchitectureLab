@@ -6,7 +6,7 @@
 This project demonstrates the design and deployment of a secure AWS cloud architecture using a custom Virtual Private Cloud (VPC). The environment was manually configured to showcase applied knowledge of network segmentation, least privilege IAM, logging, monitoring, and data protection best practices.
 
 
-<h2>2.	Architecture Design:</h2>
+<h2>Architecture Design:</h2>
 
 Architecture Components:
 * Custom VPC (10.0.0.0/16)
